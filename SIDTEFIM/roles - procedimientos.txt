@@ -1,0 +1,47 @@
+► ROLES Y PROCEDIMIENTOS:
+
+» COORDINADOR
+	-> PROCEDIMIENTO: REGISTRAR Y ASIGNAR
+		-> ESTADO	: <PENDIENTE, ASIGNADO, ANULADO>
+		-> ETAPA	: REGISTRAR DATOS
+		-> ACCIONES	
+				» 1. Registrar datos del procedimiento.
+				» 2. Delegar procedimiento a evaluador.
+				» 3. Establecer prioridad.
+				» 4. Actualizar datos del procedimiento.
+					-> Solo datos de administrado.
+					-> Restricciones: 
+						► Reasigna el evaluador, si solo si el procedimiento no fué APROBADO.
+
+
+» EVALUADOR
+	-> PROCEDIMIENTO: PARA EVALUACIÓN
+		-> ESTADO	: <LEIDO, APROBADO, OBSERVADO, IMPROSEDENTE>
+		-> ETAPA	: EVALUACIÓN
+		-> ACCIONES	
+				» 1. Actualizar procedimiento asignado de nacionalización.
+					-> Solo datos de administrado.
+				» 2. Notificar a administrador.
+				» 3. Notificaciones visuales a evaludor.
+					-> ()EN PROYECTO EVALUACIÓN
+					-> ()NO LEIDOS
+				» 4. Aprobar, Denegar y Observar
+				» 5. Para Despacho:
+					-> ETAPA: <ENTREGA DE TITULO>
+				» 6. Filtros:
+					-> Fecha asignación.
+					-> Fechas 
+				» 7. Reportes:					
+					ESTADO: <Aprobados, Observados, Denegados>
+	
+
+» COOMON'S
+	-> PROCEDIMIENTO	: CITAS
+	-> ETAPA		: CITADO		
+	-> CITAS 
+	-> CONSULTAS
+	-> ACCIONES	
+			» 1. Buscar por evaluador.
+			
+
+
