@@ -25,6 +25,7 @@
 				» 3. Notificaciones visuales a evaludor.
 					-> ()EN PROYECTO EVALUACIÓN
 					-> ()NO LEIDOS
+					-> Importante: En cuadro de datos mostrar colores por estado.
 				» 4. Aprobar, Denegar y Observar
 				» 5. Para Despacho:
 					-> ETAPA: <ENTREGA DE TITULO>
