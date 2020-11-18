@@ -440,4 +440,6 @@ INSERT
 			'rguevarav', '25', '46392613', 'Cristopher Guevara Villegas', '123', '25'
 		)
 
+SELECT * FROM SidtefimUsuario
 SELECT * FROM SidtefimProcNac
+SELECT * FROM SidtefimEtapaProcNac

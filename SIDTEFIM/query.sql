@@ -9,3 +9,5 @@ INSERT INTO SidtefimModulo
 
 /*» INSERT: SidtefimModulo */
 SidtefimProcedimiento
+
+SELECT * FROM SidtefimProcNac
