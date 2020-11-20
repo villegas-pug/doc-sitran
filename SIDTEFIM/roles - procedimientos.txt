@@ -21,7 +21,7 @@
 		-> ACCIONES	
 				» 1. Actualizar procedimiento asignado de nacionalización.
 					-> Solo datos de administrado.
-				» 2. Notificar a administrador.
+				» 2. Notificar a administrado.
 				» 3. Notificaciones visuales a evaludor.
 					-> ()EN PROYECTO EVALUACIÓN
 					-> ()NO LEIDOS
